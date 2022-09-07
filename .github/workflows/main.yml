@@ -2,16 +2,16 @@ name: Refresh README workflow
 
 on:
   schedule:
-    cron: '30 4 * * *'
-    workflow_dispatch:
-    push:
-      branches:
-      - main
+    - cron: '30 4 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+    - main
 
 jobs:
   refresh_readme:
     runs-on: ubuntu-latest
-    
+
     permissions:
       contents: write
 
