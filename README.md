@@ -1,7 +1,7 @@
 ### Hi 👋
 
-I'm Dániel Földi, a Computer Science student at the University of Cambridge.
+I'm Dániel Földi, a Computer Science graduate from Hungary.
 
-I'm a software developer, gamer and DJ.
+I like serverless, distributed and IoT.
 
 ![Metrics of repositories](https://raw.githubusercontent.com/DaniFoldi/DaniFoldi/main/github-metrics.svg)
